@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ExerciciosCSharp",
+    "\\ExerciciosCSharp\\exercicio1"
   ],
-  "SelectedNode": "\\C:\\Users\\lucas\\Source\\Repos\\exercicios-csharp",
+  "SelectedNode": "\\ExerciciosCSharp\\exercicio1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
